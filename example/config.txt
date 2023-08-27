@@ -1,0 +1,2 @@
+Prefix plugins/PreprocessMetagenomics/example/
+Plugin PreprocessMetagenomics inputfile input.csv outputfile abund
